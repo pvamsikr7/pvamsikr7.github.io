@@ -612,9 +612,7 @@ window.addEventListener("scroll", () => {
 
 });
 
-/*==================================================
-Hero Image Floating
-==================================================*/
+
 
 const image = document.querySelector(".profile-card");
 
